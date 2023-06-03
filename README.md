@@ -84,8 +84,13 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=GabrielPedrosoFerreira&show_icons=true&count_private=true&hide_border=true" align="center" /> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielPedrosoFerreira&hide_progress=true" align="center" />
-
-![snake gif](https://github.com/GabrielPedrosoFerreira/GabrielPedrosoFerreira/blob/output/github-contribution-grid-snake.svg)
   </div> 
+  
+  <br/>
+  
+  <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/GabrielPedrosoFerreira/count.svg" /></p>
+  
+  
+  ![snake gif](https://github.com/GabrielPedrosoFerreira/GabrielPedrosoFerreira/blob/output/github-contribution-grid-snake.svg)
 <br/>  
 

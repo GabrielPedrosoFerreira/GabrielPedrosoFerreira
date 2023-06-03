@@ -1,10 +1,11 @@
 
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=%3C+Hello%2C+I'm+Gabriel+Pedroso+Ferreira;I+work+with+C%23+%7C+.NET+%7C+MySQL;Working+developer+since+2022+%F0%9F%9A%80+%3E" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E90FF&width=435&lines=%3C+Hello%2C+how+are+you%3F;I'm+Gabriel+Pedroso+Ferreira;I+work+with+C%23+%7C+.NET+%7C+MySQL;Working+developer+since+2022+%F0%9F%9A%80+%3E" alt="Typing SVG" /></a>
 </div>
   
+<br/>
 
 - 🔭 I’m currently working with C# | .NET | MySQL  
   
@@ -92,8 +93,12 @@
   <br><p align="center"><b>Visitors Count</b></p>
   <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/GabrielPedrosoFerreira/count.svg" /></p>
   <br>
+  
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GabrielPedrosoFerreira&bg_color=FFFFFF&color=1E90FF&line=1E90FF&point=191970&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+   ![Snake animation](https://github.com/GabrielPedrosoFerreira/GabrielPedrosoFerreira/blob/output/github-contribution-grid-snake.svg)
   </div>
   
-// ![snake gif](https://github.com/GabrielPedrosoFerreira/GabrielPedrosoFerreira/blob/output/github-contribution-grid-snake.svg)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer"/>
 <br/>  
 

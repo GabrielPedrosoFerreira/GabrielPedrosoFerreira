@@ -1,9 +1,9 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
 
-### <div align="center">Console.WriteLine("Hello, I'm Gabriel Pedroso" + "👨‍💻 working developer since 2022 🚀"); </div>  
+
+
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=%3C+Hello%2C+I'm+Gabriel+Pedroso+Ferreira;I+work+with+C%23+%7C+.NET+%7C+MySQL;Working+developer+since+2022+%F0%9F%9A%80+%3E" alt="Typing SVG" /></a>
+</div>
   
 
 - 🔭 I’m currently working with C# | .NET | MySQL  
@@ -88,9 +88,12 @@
   
   <br/>
   
+  <div align="center">
+  <br><p align="center"><b>Visitors Count</b></p>
   <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/GabrielPedrosoFerreira/count.svg" /></p>
+  <br>
+  </div>
   
-  
-  ![snake gif](https://github.com/GabrielPedrosoFerreira/GabrielPedrosoFerreira/blob/output/github-contribution-grid-snake.svg)
+// ![snake gif](https://github.com/GabrielPedrosoFerreira/GabrielPedrosoFerreira/blob/output/github-contribution-grid-snake.svg)
 <br/>  
 

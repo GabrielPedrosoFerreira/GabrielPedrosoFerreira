@@ -96,8 +96,6 @@
   
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GabrielPedrosoFerreira&bg_color=FFFFFF&color=1E90FF&line=1E90FF&point=191970&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-   ![Snake animation](https://github.com/GabrielPedrosoFerreira/GabrielPedrosoFerreira/blob/output/github-contribution-grid-snake.svg)
-  </div>
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer"/>
 <br/>  
